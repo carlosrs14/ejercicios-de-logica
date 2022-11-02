@@ -1,2 +1,2 @@
 # ejerciciosDeInternet
-# una serie de soluciónes a ejercicios que he encotrado en distintos pdf en internet
+# una serie de soluciónes a ejercicios que he encontrado en distintos pdf en internet
