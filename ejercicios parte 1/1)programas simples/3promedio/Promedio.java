@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class promedio {
+public class Promedio {
 
     public static void main(String[] args) {
         try (Scanner scan = new Scanner(System.in)) {
